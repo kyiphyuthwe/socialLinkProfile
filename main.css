@@ -110,4 +110,7 @@ img{
 .btns:hover{
     background-color: var(--Green);
     color: var(--Grey_900);
+
+    border-radius: 15px;
+    border: none;
 }
